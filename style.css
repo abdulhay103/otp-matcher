@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: azure;
+}
+
+.otp-box-container {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+}
